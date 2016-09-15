@@ -3,3 +3,4 @@
 export(GenerateMessage)
 export(GitSessionInfo)
 export(PrintF)
+export(UpgradeBioconductorPackages)
