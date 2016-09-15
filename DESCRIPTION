@@ -1,0 +1,12 @@
+Package: rutils
+Type: Package
+Title: Tom's R Utilities
+Version: 0.0.1
+Authors@R: person("Tom", "Harrop", email = "twharrop@gmail.com",
+           role = c("aut", "cre"))
+Description: Package of commonly used functions for data analysis with R
+Depends:
+    R (>= 3.3.1)
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
