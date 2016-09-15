@@ -1,6 +1,6 @@
 #' GitSessionInfo
 #'
-#' Get session info with git branch and has and system date.
+#' Get session info with git branch and hash and system date.
 #'
 #' @return Character vector for printing to a logfile, e.g. with
 #'   \code{writeLines}
