@@ -12,4 +12,3 @@ GenerateMessage(message.text)
 \description{
 Print a message to stdout with the date and \code{message.text}
 }
-

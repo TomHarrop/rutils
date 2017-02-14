@@ -13,4 +13,3 @@ Character vector for printing to a logfile, e.g. with
 \description{
 Get session info with git branch and hash and system date.
 }
-

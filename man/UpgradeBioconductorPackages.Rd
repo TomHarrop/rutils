@@ -9,4 +9,3 @@ UpgradeBioconductorPackages()
 \description{
 Source and run \code{https://bioconductor.org/biocLite.R}.
 }
-

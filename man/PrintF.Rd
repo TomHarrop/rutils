@@ -16,4 +16,3 @@ Character vector
 Implementation of \code{bash}-like \code{printf}. Wrapper to \code{sprintf}
 that prints to \code{stderr}.
 }
-

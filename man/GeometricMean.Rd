@@ -20,4 +20,3 @@ Numeric: geometrical mean of x
 Take the geometric mean of a numerical vector. Stolen from
 \code{http://stackoverflow.com/a/25555105/3017012}.
 }
-
