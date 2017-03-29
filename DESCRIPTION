@@ -1,7 +1,7 @@
 Package: rutils
 Type: Package
 Title: Tom's R Utilities
-Version: 0.0.4
+Version: 0.0.5
 Authors@R: person("Tom", "Harrop", email = "twharrop@gmail.com",
            role = c("aut", "cre"))
 Description: Package of commonly used functions for data analysis with R

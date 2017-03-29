@@ -10,5 +10,7 @@ UpgradeBioconductorPackages <- function(){
     source("https://bioconductor.org/biocLite.R")
   }
   message("Checking for updates to installed packages")
-  biocLite()
+  biocLite(type = "source",
+           dependencies=TRUE,
+           build_vignettes=TRUE)
 }
